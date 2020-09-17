@@ -1,5 +1,5 @@
 # AUO_forecasting
-day-ahead forecasting for AUO power demand
+day-ahead forecasting for AUO power load demand
 
 ## struture 1 : Multi-Scale CNN ##
 
