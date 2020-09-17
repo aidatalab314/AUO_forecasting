@@ -8,13 +8,13 @@ usuage : python3 main.py
 ## moduel 1 : Multi-Scale CNN ##
 雋為's work : creat a build_ms_model.py
 <br />
-### library usage for moduel###
+### library usage for moduel ###
 ms_util.py
 <br /><br />
 ## moduel 2 : Muti EEMD-AE-LSTM ##
 翔祐's work : creat a build_CEEMDAELSTM_model.py
 <br />
-### library usage for moduel###
+### library usage for moduel ###
 ceemdae_util.py(in progress)
 <br /><br />
 ## environment building ##
