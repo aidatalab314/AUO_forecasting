@@ -12,6 +12,7 @@ Usuage : `python3 main.py`
 ms_util.py
 <br />
 ### Reference ###
+https://arxiv.org/pdf/1603.06995.pdf
 <br /><br />
 ## Moduel 2 : Muti EEMD-AE-LSTM ##
 翔祐's work : creat a build_CEEMDAELSTM_model.py
