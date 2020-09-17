@@ -24,8 +24,11 @@ ceemdae_util.py(in progress)
 https://ieeexplore.ieee.org/document/8996379
 <br /><br />
 ## Environment building ##
+step 1:<br />
 Use `git clone https://github.com/jay83831/AUO_forecasting.git -b develop` to your local folder<br />
+step 2:<br />
 activate anaconda with a new python3.6 workspace<br />
+step 3:<br />
 install the package by pip3 install -r doc/requirements.txt
 <br /><br />
 
