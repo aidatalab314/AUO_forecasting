@@ -5,10 +5,10 @@ from util.ms_util import *
 from util.ceemdae_util import *
 
 #for window
-#DATA_PATH = "C:/Users/user/Desktop/all_proj/AUO/107_kw.csv"
+DATA_PATH = "C:/Users/108319004/Desktop/pyworkspace/AUO_forecasting/project_AUO/data/107_kw.csv"
 
 #for Mac
-DATA_PATH ="./data/107_kw.csv"
+#DATA_PATH ="./data/107_kw.csv"
 
 #================for global===============#
 INPUT_LEN = 96

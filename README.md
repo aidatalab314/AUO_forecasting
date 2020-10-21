@@ -6,7 +6,7 @@ Globle library : util.py <br />
 Usuage : `python3 main.py`
 <br /><br />
 ## Moduel 1 : Multi-Scale CNN ##
-雋為's work : creat a build_ms_model.py
+雋為's work : paper reasearch and create a build_ms_model.py
 <br />
 ### Library usage for moduel ###
 ms_util.py
@@ -14,8 +14,8 @@ ms_util.py
 ### Reference ###
 https://arxiv.org/pdf/1603.06995.pdf
 <br /><br />
-## Moduel 2 : Muti EEMD-AE-LSTM ##
-翔祐's work : creat a build_CEEMDAELSTM_model.py
+## Moduel 2 : EMD-base model ##
+翔祐's work : online-EMD reasearch 
 <br />
 ### Library usage for moduel ###
 ceemdae_util.py(in progress)
