@@ -24,15 +24,15 @@ DOWN_SAM_NUM = 4 #must be divisor of INPUT_LEN
 if __name__ == '__main__': 
     
     #MS
-    fil_data = load_data(DATA_PATH,0,True)
-    Pro_data , Tar_dataset = resample_data(fil_data,INPUT_LEN,DAILY_TIME_STEP)
-    MS_dataset = get_ms_dataset(Pro_data , FIL_SEQ_NUM , DOWN_SAM_NUM)
-
-    #CEEMDAE
     #fil_data = load_data(DATA_PATH,0,True)
     #Pro_data , Tar_dataset = resample_data(fil_data,INPUT_LEN,DAILY_TIME_STEP)
-    #IMFs = get_IMFset(Pro_data)
-    #grop_data = excute_ae(IMFs)
+    #MS_dataset = get_ms_dataset(Pro_data , FIL_SEQ_NUM , DOWN_SAM_NUM)
+
+    #CEEMDAE
+    fil_data = load_data(DATA_PATH,0,True)
+    Pro_data , Tar_dataset = resample_data(fil_data,INPUT_LEN,DAILY_TIME_STEP)
+    IMFs = get_IMFset(Pro_data)
+    grop_data = excute_ae(IMFs)
 
 
 
