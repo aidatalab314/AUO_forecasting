@@ -3,6 +3,7 @@
 from util.util import *
 from util.ms_util import *
 from util.ceemdae_util import *
+from model_repo.model_sample import *
 
 #for window
 DATA_PATH = "C:/Users/108319004/Desktop/pyworkspace/AUO_forecasting/project_AUO/data/107_kw.csv"
